@@ -1,0 +1,7 @@
+body { font-family: sans-serif; }
+nav {
+  background: #16a085; padding: 12px; display:flex; gap:20px;
+}
+nav a, nav span { color:#fff; text-decoration:none; }
+form { display:flex; flex-direction:column; max-width:320px; margin:40px auto; gap:8px; }
+button { background: #2980b9; color: #fff; border: none; padding: 8px 12px; cursor:pointer;}
